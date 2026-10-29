@@ -1,6 +1,6 @@
 # Sydney Innovation Hub
 
-<img src="assets/logo.png" alt="SYD INNO HUB wordmark" width="280">
+<img src="assets/logo.png" alt="Three black Zs rising on yellow" width="280">
 
 **Sydney does not innovate after 4:45pm.**
 
