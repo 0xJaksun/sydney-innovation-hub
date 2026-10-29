@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
   <rect width="512" height="512" fill="#FFD400"/>
-  <g font-family="HelveticaNeue-CondensedBlack, Helvetica Neue, Arial Black, sans-serif" font-weight="900" fill="#111111" letter-spacing="-2">
-    <text x="52" y="196" font-size="178">SYD</text>
-    <text x="52" y="330" font-size="178">INNO</text>
-    <text x="52" y="464" font-size="178">HUB</text>
+  <g font-family="HelveticaNeue-CondensedBlack, Helvetica Neue, Arial Black, sans-serif" font-weight="900" fill="#111111" font-size="176">
+    <text x="40" y="170" textLength="432" lengthAdjust="spacingAndGlyphs">SYD</text>
+    <text x="40" y="320" textLength="432" lengthAdjust="spacingAndGlyphs">INNO</text>
+    <text x="40" y="470" textLength="432" lengthAdjust="spacingAndGlyphs">HUB</text>
   </g>
 </svg>
