@@ -8,6 +8,8 @@ The startup hubs lock their doors at 4:45. Now your repos do too.
 
 Sydney Innovation Hub is a GitHub App that enforces Sydney startup hub opening hours on your pull requests. Open a PR outside business hours and it gets roasted and closed on the spot.
 
+**[Install it on your repos](https://github.com/apps/sydney-innovation-hub)**
+
 ## Opening hours
 
 | Day | Innovation permitted |
