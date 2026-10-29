@@ -1,5 +1,7 @@
 # Sydney Innovation Hub
 
+<img src="assets/logo.png" alt="A padlock whose body is a clock stopped at 4:45" width="160">
+
 **Sydney does not innovate after 4:45pm.**
 
 The startup hubs lock their doors at 4:45. Now your repos do too.
