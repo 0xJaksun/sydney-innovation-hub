@@ -1,10 +1,10 @@
-# Hub Hours
+# Sydney Innovation Hub
 
 **Sydney does not innovate after 4:45pm.**
 
 The startup hubs lock their doors at 4:45. Now your repos do too.
 
-Hub Hours is a GitHub App that enforces Sydney startup hub opening hours on your pull requests. Open a PR outside business hours and it gets roasted and closed on the spot.
+Sydney Innovation Hub is a GitHub App that enforces Sydney startup hub opening hours on your pull requests. Open a PR outside business hours and it gets roasted and closed on the spot.
 
 ## Opening hours
 
